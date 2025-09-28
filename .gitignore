@@ -1,0 +1,2 @@
+# removing the csv files to reduce upload size
+*.csv
